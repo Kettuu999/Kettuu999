@@ -1,26 +1,43 @@
 <h3 align="center">
-<samp>&gt; Hey there! I am Kettuu</samp>
+  <samp>&gt; Hello there! I am Kettuu</samp>
 </h3>
 
-<p align="center"> 
-<samp>
-Aspiring Security Analyst | Java (In-Progress) | Python (Basic/Scripting)
-</samp>
+<p align="center">
+  <samp>Aspiring Security Analyst | System Security Enthusiast</samp>
 </p>
 
 ---
 
-<div style="border: 1px solid #ffffff; padding: 20px; border-radius: 12px; background: #0a0a0a; margin-top: 20px;">
-
-## 🛡️ About Me
-Dedicated to building a career in **cybersecurity**, with a focus on **system security** and using programming and networking fundamentals.
-
-Currently studying Java, networking, and wanting to learn C++.
+<div align="center">
+  <img src="https://vercel.app" alt="Kettuu's GitHub Stats" />
 </div>
 
 ---
 
-## ⛏ Skills & Tools
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div style="border: 1px solid #30363d; padding: 20px; border-radius: 12px; background: #0d1117; margin-top: 20px;">
+
+## About Me
+I build things. Currently working toward a career in cybersecurity, with a focus on system security, programming, and networking fundamentals. 
+
+</div>
+
+---
+
+## Skills & Tools
+
+### Languages
+![Java](https://shields.io)
+![Python](https://shields.io)
+![C++](https://shields.io++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://shields.io)
+
+### Environments & Infrastructure
+![Linux](https://shields.io)
+![Windows](https://shields.io)
+
+---
+
+## Current Focus
+- Creating projects in Rust 
+- Studying network protocols and traffic analysis fundamentals.
