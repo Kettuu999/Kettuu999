@@ -28,8 +28,7 @@ I build things. Currently working toward a career in cybersecurity, with a focus
 ### Languages
 ![Java](https://shields.io)
 ![Python](https://shields.io)
-![C++](https://shields.io++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://shields.io)
 ![Rust](https://shields.io)
 
 ### Environments & Infrastructure
