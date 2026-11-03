@@ -89,9 +89,3 @@
 </p>
 
 <hr>
-
-<div align="center">
-  <sub>
-    Always learning. Always building.
-  </sub>
-</div>
